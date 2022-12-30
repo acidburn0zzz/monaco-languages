@@ -20,7 +20,7 @@
   "devDependencies": {
     "glob": "^7.1.6",
     "jsdom": "^15.2.1",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "monaco-editor-core": "0.19.0",
     "monaco-plugin-helpers": "^1.0.2",
     "requirejs": "^2.3.6",
